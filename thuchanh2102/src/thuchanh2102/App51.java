@@ -4,13 +4,17 @@ package thuchanh2102;
  *
  * @author DELL
  */
-public class Thuchanh2102 {
+public class App51 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int number = 0;
+        for(;number < 5;){
+            System.out.println(number);
+            number++;
+        }
     }
     
 }
